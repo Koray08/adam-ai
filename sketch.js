@@ -86,7 +86,7 @@ function setup() {
    setDots();
    winArea = new Solid(tiles[17][1], tiles[20][2]);
    testPopulation = new Population(populationSize);
-   img = loadImage("https://imgur.com/gallery/hWVD7Fx");
+   img = loadImage("https://i.imgur.com/8fharrN.gif");
 
   //prevents the window from moving from the arrow keys or the spacebar
     window.addEventListener("keydown", function(e) {
